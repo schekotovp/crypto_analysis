@@ -1,0 +1,15 @@
+Market dominance of top-100 cryptos
+This chart provides information on the distribution of MC dominance between top-100 cryptocurrencies. As we can see, it reminds of the normal distribution. There is a sharp rise in the frequency of currencies with MC dominance close to 0% comparing to those with higher MC dominance.
+
+
+Correlation of 60 days change and market cap
+The chart provides data on correlation between market cap and the change of price of cryptocurrencies over a 60-days period of time. As we can see, the lower market cap is, the more volatile price is.
+
+Correlation of market pairs quantity and market cap
+This chart provides information on the correlation between market cap of cryptocurrencies and the amount of market pairs where they are presented. It shows us that most currencies with small market cap have low amount of pairs. Nevertheless, some of the coins with much higher MC have similar values. Probably, these are native coins of different exchanges, which by definition are represented at only one exchange, consequently, they can't have a lot of pairs.
+
+Distribution of 60 days change depending on type
+These boxplots represent information on the change of cryptocurrencies' prices depending on their type. The first type has maximum supply, which means that as the upper bound has been reached, the supply is fixed and the price can go much higher comparing with price of currencies with unlimited supply.The first type has wider range of data than the second one, while cryptos without maximum supply have more stable price.
+
+MC Distribution of Tokens SC
+The piechart shows that cryptocurrencies which do not provide a possibility for deployment of smart contracts share 69 percent of the market, which is 2 times more than this value for cryptos with such possibility.
